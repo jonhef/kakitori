@@ -1,3 +1,4 @@
 requests
 CairoSVG
 Pillow
+svgpathtools
